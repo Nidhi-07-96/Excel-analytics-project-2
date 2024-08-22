@@ -34,7 +34,26 @@ The dataset includes the following fields:
 - SPORTS: The specific sport the sportsman is participating in.
 - SALARY: Compensation provided to the sportsman.
 - LANGUAGE: languages spoken by sportsmen
-- COUNTRYCODE: 
+- COUNTRYCODE and COUNTRY NAME: Mapping of country codes to full country names.
+
+### Data Standardization
+
+Standardizing and populating key fields in the dataset using Excel functions to ensure consistency and accuracy
+
+### Data Formatting
+
+Apply consistent formatting to the dataset, including date formats, numeric formatting
+
+### Data Summarization
+
+Pivot Tables: Creating pivot tables to summarize data which helps in identifying the distribution of sportsmen across different countries and their respective genders by various dimensions such as country, sport, gender, and salary.
+
+Excel Functions: Using Excel functions to calculate key metrics
+
+### Report Generation
+
+Creating pivot table report to get a comprehensive view of each sportsman, with key details such as contact information, demographics, and the sport they play and helps to filter the data by SPORT LOCATION
+
 
 
 
