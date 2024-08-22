@@ -7,7 +7,7 @@
 
 The project focuses on organizing, cleaning, and analyzing sports data, which includes personal details, sports participation, and other relevant information about the sportsmen. The goal is to ensure the data is consistent, accurately formatted, and easily accessible for reporting purposes.
 
-### Dataset Description:
+### Dataset Description
 
 The dataset includes the following fields:
 
