@@ -42,19 +42,31 @@ Standardizing and populating key fields in the dataset using Excel functions to 
 
 ### Data Formatting
 
-Apply consistent formatting to the dataset, including date formats, numeric formatting
+Applied consistent formatting to the dataset, including date formats, numeric formatting
 
 ### Data Summarization
 
-Pivot Tables: Creating pivot tables to summarize data which helps in identifying the distribution of sportsmen across different countries and their respective genders by various dimensions such as country, sport, gender, and salary.
+Pivot Tables: Created pivot tables to summarize data which helps in identifying the distribution of sportsmen across different countries and their respective genders by various dimensions such as country, sport, gender, and salary.
 
 Excel Functions: Using Excel functions to calculate key metrics
 
 ### Report Generation
 
-Creating pivot table report to get a comprehensive view of each sportsman, with key details such as contact information, demographics, and the sport they play and helps to filter the data by SPORT LOCATION
+Created pivot table report to get a comprehensive view of each sportsman, with key details such as contact information, demographics, and the sport they play and helps to filter the data by SPORT LOCATION
 
+### Findings
 
+- Among the countries, Sweden has the most balanced gender representation.
+- Countries such as Australia, France, and Spain have significantly more female participants than male participants, indicating a strong female representation in sports from these countries.
+- Brazil and Germany show a clear dominance of male sportsmen, with Brazil having no female representation at all.
+- Cycling appears to be popular across multiple countries, with participants involved in Cycling Track, Cycling Road, Cycling BMX, and Cycling Mountain Bike.
+- The oldest participants are from Germany, born in 1959, who are involved in Canoe Sprint and Cycling Mountain Bike.
+
+### Recommendations
+
+- Encourage greater female participation by implementing programs that promote women in sports
+- Organize age-specific or youth-focused events to encourage participation
+- Encourage countries with fewer sports options to explore different variety of sports
 
 
 
